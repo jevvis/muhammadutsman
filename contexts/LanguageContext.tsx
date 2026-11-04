@@ -55,7 +55,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // ── About Section
     'about.label': "TENTANG SAYA",
-    'about.title': "Mengajar. Menerjemahkan. Melayani.",
+    'about.title': "Mengajar. Menerjemahkan. Melayani. UIN Malang.",
     'about.ipk': "IPK S1",
     'about.honors': "IPK S2 (SEMENTARA)",
     'about.year': "LULUS S1",
@@ -374,7 +374,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // ── About Section
     'about.label': "ABOUT ME",
-    'about.title': "Teaching. Translating. Serving.",
+    'about.title': "Teaching. Translating. Serving. UIN Malang.",
     'about.ipk': "BACHELOR GPA",
     'about.honors': "MASTER GPA (INTERIM)",
     'about.year': "BACHELOR GRADUATED",
